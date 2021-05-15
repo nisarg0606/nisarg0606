@@ -33,7 +33,7 @@
 
 - 🏆 We were at Rank-16 in Cricket and Code Hackathon - 2021 organized by IIT-Madras.
 - :computer: I had done Intership at Royal Technosoft Pvt Ltd. and trained around 800 international Students in C Programming, Unity & Game Development. 
-- I had Participated in Smart India Hackathon in my 1st year and had made Home Automation System
+- :v: I had Participated in Smart India Hackathon in my 1st year and had made Home Automation System
 
 <br />
 
