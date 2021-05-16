@@ -2,7 +2,7 @@
 
 ## I'm a Competative Coding and troubleshooting Enthusiast , Developer, and a Student!!
 
-- 🧠 I’m currently learning more about Java, Oracle Database and prepare for OCA and OCP cerifciation offered by Oracle.
+- 🧠 I’m currently learning more about Java, Oracle Database and preparing for OCA and OCP cerifciation offered by Oracle.
 - 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 - 💬 Ask me about C,C++ and Java.
 - 💯 2021 Goals: Become a 7 :star: Codechef user, Contribute more to Open Source projects and Build some Great Projects.
