@@ -2,10 +2,10 @@
 
 ## I'm a Competative Coding and troubleshooting Enthusiast , Developer, and a Student!!
 
-- 🧠 I’m currently learning more about Java, Oracle Database.
+- 🧠 I’m currently learning more about Java, Oracle Database and prepare for OCA and OCP cerifciation offered by Oracle.
 - 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 - 💬 Ask me about C,C++ and Java.
-- 💯 2021 Goals: Contribute more to Open Source projects and Build some Great Projects.
+- 💯 2021 Goals: Become a 7 :star: Codechef user, Contribute more to Open Source projects and Build some Great Projects.
 - 📧 Reach me at [nisarg0606@gmail.com](mailto:nisarg0606@gmail.com)
 
 ### Connect with me:
@@ -33,7 +33,8 @@
 
 - 🏆 We were at Rank-16 in Cricket and Code Hackathon - 2021 organized by IIT-Madras.
 - :computer: I had done Intership at Royal Technosoft Pvt Ltd. and trained around 800 international Students in C Programming, Unity & Game Development. 
-- :v: I had Participated in Smart India Hackathon in my 1st year and had made Home Automation System
+- :v: I had Participated in Smart India Hackathon - 2020 in my 1st year and had made Home Automation Project using python and Raspberry pi.
+- I am a 3 :star: Codechef user and trying my best to be 5 :star: as soon as possible.
 
 <br />
 
