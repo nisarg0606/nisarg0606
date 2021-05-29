@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=nisarg001&style=flat-square)
 # Hi there, I'm Nisarg Shah👋
 
 ## I'm a Competative Coding and troubleshooting Enthusiast , Developer, and a Student!!
