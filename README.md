@@ -6,7 +6,7 @@
 - 🧠 I’m currently learning more about Java, Oracle Database and preparing for OCA and OCP cerifciation offered by Oracle.
 - 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 - 💬 Ask me about C,C++ and Java.
-- 💯 2021 Goals: Become a 7 :star: Codechef user, Contribute more to Open Source projects and Build some Great Projects.
+- 💯 2024 Goals: Become a 7 :star: Codechef user, Contribute more to Open Source projects and Build some Great Projects.
 - 📧 Reach me at [nisarg0606@gmail.com](mailto:nisarg0606@gmail.com)
 
 ### Connect with me:
@@ -38,15 +38,6 @@
 - I am a 3 :star: Codechef user and trying my best to be 5 :star: as soon as possible.
 
 <br />
-
-### :trophy: My Github Stats:
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nisarg0606&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nisarg0606&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nisarg0606&hide=php,scss,ruby&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nisarg0606&hide=scss,ruby&theme=tokyonight" />
-</a>
 </div>
 
 [twitter]: https://twitter.com/nisarg_001
