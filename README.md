@@ -1,27 +1,36 @@
 ![](https://komarev.com/ghpvc/?username=nisarg001&style=flat-square)
-# Hi there! I'm Nisarg Shah👋
+# Hi there! I'm Nisarg Shah 👋  
 
-I'm a graduate student pursuing Master's of science in  computer Science at Indiana University Bloomington. 🎓
+🎓 Graduate Student in Computer Science | Indiana University Bloomington  
+💻 Backend & Cloud Developer | Java | Spring Boot | AWS | React  
+
 
 <!-- I'm a Competative Coder, troubleshooting Enthusiast , Developer and a Student!! -->
 
-## 💫 About Me:
-- 🔭 I'm interested in collaborating on exciting projects related to software development, Java, DevOps, MLOps, and Cloud technologies.
-- 🌱 Currently, I'm exploring cloud technologies such as AWS, Snowflake, and Databricks.
-- 💼 I'm actively seeking a summer internship for 2024 in roles related to Software Development Engineering (SDE) or Software Engineering (SWE).
-- 💬 Ask me about anything related to Java! I'm always eager to share knowledge and learn from others.
-- ⛰️ Fun Fact: I love going on hikes and exploring nature trails during my free time.
-- 📧 Connecte me: nisarg0606@gmail.com
-## Experience 🚀
+## 💫 About Me
+
+- 🔭 Passionate about building **scalable backend systems and cloud-native applications**.
+- 🌱 Currently exploring **AWS, Databricks, and Snowflake** to strengthen my cloud and data engineering skills.
+- 💼 Actively seeking **Software Development (SDE/SWE)** opportunities for **Summer 2025**.
+- 💬 Love discussing **Java, Spring Boot, and distributed systems**.
+- 🧠 Always learning — from AI trends to software architecture best practices.
+- ⛰️ Fun fact: I love hiking and discovering scenic trails.
+- 📧 Reach me at: **nisarg0606@gmail.com**
+
+## 💼 Experience
 
 ### UITS - Indiana University
-- Part-Time Accessibility Assistant: Championed accessibility by converting legacy documents to accessible PDFs, impacting 1000 users with disabilities.
+**Accessibility Assistant (Part-Time)**  
+- Enhanced document accessibility for 1,000+ users with disabilities by converting legacy materials into accessible PDFs.
 
-### Dhirubhai Ambani Institute of Technology (DAIICT)
-- Part-Time Research Intern: Led sentiment analysis on 1.5M tweets on inflation using BERT embeddings, achieving 89% accuracy.
+### Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
+**Research Intern (Part-Time)**  
+- Conducted sentiment analysis on 1.5M+ tweets using **BERT embeddings**, achieving **89% accuracy** in inflation trend prediction.
 
 ### Capri Technosys
-- Jr. Software Developer (Backend): Developed scalable data acquisition systems, boosting model accuracy by 70%.
+**Jr. Software Developer (Backend)**  
+- Developed **data acquisition systems** and improved **model accuracy by 70%** through optimized backend architecture.
+
 
 ## Projects 🛠️
 
