@@ -11,7 +11,7 @@
 
 - 🔭 Passionate about building **scalable backend systems and cloud-native applications**.
 - 🌱 Currently exploring **AWS, Databricks, and Snowflake** to strengthen my cloud and data engineering skills.
-- 💼 Actively seeking **Software Development (SDE/SWE)** opportunities for **Summer 2025**.
+- 💼 Actively seeking **Software Development (SDE/SWE)** opportunities.
 - 💬 Love discussing **Java, Spring Boot, and distributed systems**.
 - 🧠 Always learning — from AI trends to software architecture best practices.
 - ⛰️ Fun fact: I love hiking and discovering scenic trails.
